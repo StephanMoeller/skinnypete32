@@ -3,7 +3,11 @@
 I made an mx keyboard with a keywell and a single thumb key on each side. It ressembles the distance and angle between thumb key and center middle key of the glove80, keeps as much air around to improve the sound and it is fully hand wired.
 I wanted to try to hand wire using copper wire as opposed to the single unit pcbs I used on my previous board, the Wilson26. I would not suggest anyone to choose this path, at least not with a keywell unless your soldering skills are way better than mine :D
 
-I comes with a tenting kit with magnets on the bottom, keeping the thing in place on my desk where I have a metale plate underneith the mat.
+It comes with a tenting kit with magnets on the bottom, keeping the thing in place on my desk where I have a metale plate underneith the mat.
+
+The mcu is a xiao rp2040 and the keycaps are keychrons proprietary profile.
+
+The case is left open for a less hollow sound.
 
 ![491008857_657609413666128_2567078732072318363_n](https://github.com/user-attachments/assets/bdc6ad44-0af6-4bb5-a6d8-5be371c96fc9)
 ![490987344_999947065617520_8311638476750245696_n](https://github.com/user-attachments/assets/c75718ca-fba6-4036-8ebb-9e61df5e880a)
