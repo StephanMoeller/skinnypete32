@@ -5,6 +5,7 @@ I wanted to try to hand wire using copper wire as opposed to the single unit pcb
 
 I comes with a tenting kit with magnets on the bottom, keeping the thing in place on my desk where I have a metale plate underneith the mat.
 
+![491008857_657609413666128_2567078732072318363_n](https://github.com/user-attachments/assets/bdc6ad44-0af6-4bb5-a6d8-5be371c96fc9)
 ![490987344_999947065617520_8311638476750245696_n](https://github.com/user-attachments/assets/c75718ca-fba6-4036-8ebb-9e61df5e880a)
 ![490636234_1190877025922397_5438709677824018591_n](https://github.com/user-attachments/assets/b0e1db94-71b4-46cc-a208-3bdffb25989c)
 ![491002650_564397956163880_9025508081813309843_n](https://github.com/user-attachments/assets/bd365242-87cd-4e95-bd25-95e379166b65)
