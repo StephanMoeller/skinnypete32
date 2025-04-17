@@ -1,4 +1,4 @@
-# skinnypete32
+# SkinnyPete32
 
 I made an mx keyboard with a keywell and a single thumb key on each side. It ressembles the distance and angle between thumb key and center middle key of the glove80, keeps as much air around to improve the sound and it is fully hand wired.
 I wanted to try to hand wire using copper wire as opposed to the single unit pcbs I used on my previous board, the Wilson26. I would not suggest anyone to choose this path, at least not with a keywell unless your soldering skills are way better than mine :D
