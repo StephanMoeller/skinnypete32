@@ -22,3 +22,10 @@ The case is left open for a less hollow sound.
 ![491026090_557401923597058_9020763560586609550_n](https://github.com/user-attachments/assets/46cb7ca9-fee8-4a9f-ab42-c1f43ea3e6e3)
 ![483224141_991833946005050_160070120404844867_n](https://github.com/user-attachments/assets/427929fd-53b1-4a4a-94a9-79c736d2e69a)
 ![490985893_4019075361704881_1334995715769506252_n](https://github.com/user-attachments/assets/84f71e3a-6f51-49ad-86a3-0325425ef6d6)
+
+All my boards:
+
+https://github.com/StephanMoeller/clacky-chan  
+https://github.com/StephanMoeller/mike-typeson  
+https://github.com/StephanMoeller/skinnypete32  
+https://github.com/StephanMoeller/wilson26  
